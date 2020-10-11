@@ -1,6 +1,6 @@
 ## Minimum Variance-Embedded Deep Kernel Learning for One-class Classification (**DKRLVOC**)
 
-**Paper**: <a href="https://doi.org/10.1016/j.neunet.2019.12.001"> Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data </a>
+**Paper**: <a href="https://doi.org/10.1016/j.neunet.2019.12.001" target="_blank"> Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data </a>
 
 **Authors**: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer
 
