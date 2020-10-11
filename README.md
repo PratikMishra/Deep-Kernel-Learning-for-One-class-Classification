@@ -1,6 +1,6 @@
 ## Minimum Variance-Embedded Deep Kernel Learning for One-class Classification (**DKRLVOC**)
 
-**Paper**: Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (**Submitted**)
+**Paper**: Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data
 
 **Authors**: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer
 
@@ -20,3 +20,14 @@
 
 \# Dai, H., Cao, J., Wang, T., Deng, M., & Yang, Z. (2019). Multilayer one-class extreme learning machine. Neural Networks, 115, 11-22.
 
+## Citation
+@article{GAUTAM2020191,
+title = "Minimum variance-embedded deep kernel regularized least squares method for one-class classification and its applications to biomedical data",
+journal = "Neural Networks",
+volume = "123",
+pages = "191 - 216",
+year = "2020",
+issn = "0893-6080",
+doi = "https://doi.org/10.1016/j.neunet.2019.12.001",
+author = "Chandan Gautam and Pratik K. Mishra and Aruna Tiwari and Bharat Richhariya and Hari Mohan Pandey and Shuihua Wang and M. Tanveer"
+}
