@@ -22,12 +22,12 @@
 
 ## Citation
 @article{GAUTAM2020191,<br />
-title = "Minimum variance-embedded deep kernel regularized least squares method for one-class classification and its applications to biomedical data",<br />
-journal = "Neural Networks",<br />
-volume = "123",<br />
-pages = "191 - 216",<br />
-year = "2020",<br />
-issn = "0893-6080",<br />
-doi = "https://doi.org/10.1016/j.neunet.2019.12.001",<br />
-author = "Chandan Gautam and Pratik K. Mishra and Aruna Tiwari and Bharat Richhariya and Hari Mohan Pandey and Shuihua Wang and M. Tanveer"<br />
+title = {Minimum variance-embedded deep kernel regularized least squares method for one-class classification and its applications to biomedical data},<br />
+journal = {Neural Networks},<br />
+volume = {123},<br />
+pages = {191 -- 216},<br />
+year = {2020},<br />
+issn = {0893-6080},<br />
+doi = {https://doi.org/10.1016/j.neunet.2019.12.001},<br />
+author = {Chandan Gautam and Pratik K. Mishra and Aruna Tiwari and Bharat Richhariya and Hari Mohan Pandey and Shuihua Wang and M. Tanveer}<br />
 }
